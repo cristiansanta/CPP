@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1621742445 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\practice exercise\matriz_simetrica\matriz_simetrica\main.c
+	<stdio.h>
+	<stdlib.h>
+

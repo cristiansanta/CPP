@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1620163618 source:c:\users\cristronicos\documents\arduino_course\c-c++\c\practice exercise\fibonacci\fibonacci\main.c
+	<stdio.h>
+	<stdlib.h>
+
